@@ -1,4 +1,4 @@
-# A - Domino piling
+# A - Domino piling - by: David Bautista - @PipeBau
 # url: https://codeforces.com/contest/50/problem/A
 
 dim = input("")
